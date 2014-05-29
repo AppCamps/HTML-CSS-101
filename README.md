@@ -29,7 +29,7 @@ Der Kurs *HTML & CSS (Responsive Websites)* findet im Zeitraum vom 13. August - 
 
 ###Online Chat
 
-Wir werden während des Kurses einmal in der Woche per Chat zur verfügun stehen um Deine Fragen zu beantworten. Die Termine und Zeiten geben wir kurzfristig bekannt. Somit haben wir die Möglichkeit einen am besten passenden termin zu finden.
+Wir werden während des Kurses einmal in der Woche per Chat zur Verfügung stehen um Deine Fragen zu beantworten. Die Termine und Zeiten geben wir kurzfristig bekannt. Somit haben wir die Möglichkeit einen passenden Termin zu finden.
 
 
 

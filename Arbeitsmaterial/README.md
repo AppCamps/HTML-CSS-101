@@ -1,4 +1,4 @@
 Arbeitsmaterial
 ===============
 
-In diesem Ordner findest Du all Arbeitsmaterialien für die einzelnen Kurstage.
+In diesem Ordner findest Du alle Arbeitsmaterialien für die einzelnen Kurstage.
