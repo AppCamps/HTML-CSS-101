@@ -1,4 +1,37 @@
-HTML-CSS-101
-============
+HTML & CSS (Responsive Websites)
+================================
 
-Hallo
+Herzlich willkommen im Git-Repository für den App Camps Kurs
+
+> **HTML & CSS (Responsive Websites)**
+
+In diesem Repository findest Du 
+
+* alle notwendigen Informationen rund um den Kurs
+* Arbeitsmaterialien
+* Lösungen zu Aufgaben
+
+Über den Kurs
+-------------
+
+**Inhalt:** Du lernst, wie man eine eigene responsive Website entwickelt. Wir starten mit HTML und CSS Grundlagen, arbeiten mit Bootstrap und Templates. Zum Schluss geht es um das Hosting der Seiten.
+
+**Ziel:** Du kannst eine eigene responsive Websiten entwickeln, weißt wie Bootstrap funktioniert und kannst vorhandene Templates editieren.
+
+**Coach:** [Andy Wenk + Diana Knodel](http://appcamps.de/erwachsene.html)
+
+Informationen
+-------------
+
+###Allgemein
+
+Der Kurs *HTML & CSS (Responsive Websites)* findet im Zeitraum vom 13. August - 10. September 2014 jeweils am Mittwoch von 18:00 - 19:30 Uhr im [betahaus Hamburg](http://hamburg.betahaus.de/) statt.
+
+###Online Chat
+
+Wir werden während des Kurses einmal in der Woche per Chat zur verfügun stehen um Deine Fragen zu beantworten. Die Termine und Zeiten geben wir kurzfristig bekannt. Somit haben wir die Möglichkeit einen am besten passenden termin zu finden.
+
+
+
+
+
