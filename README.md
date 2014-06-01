@@ -30,9 +30,13 @@ Informationen
 Der Kurs *HTML & CSS (Responsive Websites)* findet im Zeitraum vom 13. August - 10. September 2014 jeweils am Mittwoch von 18:00 - 19:30 Uhr im [betahaus Hamburg](http://hamburg.betahaus.de/) statt.
 
 **Termin 1 (13. August):** HTML und (inline) CSS Basis
+
 **Termin 2 (20. August):** Stylesheets (CSS)
+
 **Termin 3 (27. August):** Bootstrap Basics
+
 **Termin 4 (3. September):** Bootstrap Templates
+
 **Termin 5 (10. September):** Webhosting, Präsentation & Ausblick (JavaScript)
 
 ###Online Chat
