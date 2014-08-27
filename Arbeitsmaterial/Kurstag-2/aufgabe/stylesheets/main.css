@@ -1,0 +1,88 @@
+html, body {
+  font-family: 'Ubuntu', sans-serif;
+  padding:0;
+  margin: 0;
+}
+header, footer {
+  position: fixed;
+  width: 100%;
+  vertical-align: middle;
+}
+header {
+  top: 0;
+  height: 65px;
+  background-color: #ddd;
+}
+footer {
+  bottom: 0;
+  height: 100px;
+  background-color: #888;
+}
+header nav ul, footer nav ul {
+  margin-left: 20px;
+  padding:0;
+}
+header nav ul li, footer nav ul li{
+  display: inline-block;
+  margin-right: 10px;
+}
+header nav ul li{
+  height: 30px;
+  line-height: 30px;
+  padding: 2px;
+  background-color: #00ff00;
+  border-radius: 3px;
+}
+header nav ul li:hover {
+  background-color: #009900;
+}
+header nav ul li:hover a{
+  color: #fff;
+}
+header nav ul li a{
+  text-decoration: none;
+  color: #222;
+  display:block;
+}
+section {
+  margin-top: 70px;
+  margin-left: 20px;
+}
+section nav, section article {
+  display: inline-block;
+  vertical-align: top;
+}
+section nav {
+  width: 120px;
+}
+section nav ul {
+  margin: 20px 0;
+  padding: 0;
+}
+section nav ul li {
+  display: inline-block;
+  margin-bottom: 10px;
+  height: 30px;
+  line-height: 30px;
+  padding: 2px;
+  background-color: #00ff00;
+  border-radius: 3px;
+}
+section article {
+  width: 800px;
+}
+img {
+  float: left;
+  margin-right: 10px;
+}
+ul li a.active {
+  font-weight: bold;
+}
+form {
+  width: 400px;
+}
+form label{
+  display: inline-block;
+  width: 100px;
+}
+

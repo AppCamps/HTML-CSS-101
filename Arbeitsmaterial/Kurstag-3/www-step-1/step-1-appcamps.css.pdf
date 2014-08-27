@@ -1,0 +1,372 @@
+%PDF-1.3
+%‚„œ”
+2 0 obj
+<<
+/Length 1809
+>>
+stream
+BT
+/TT2 1 Tf
+0 10 -10 0 35.6667 29 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+(STEP-1 appcamps.css                                   Appcamps: HTML-CSS-101)Tj
+/TT4 1 Tf
+2.5 -1.6333 TD
+[(1:)-599.8(body {)]TJ
+0 -1.1 TD
+[(2:)-599.8(  margin:0;)]TJ
+T*
+[(3:)-599.8(  padding: 20px;)]TJ
+T*
+[(4:)-599.8(  background-color:#ddd;)]TJ
+T*
+[(5:)-599.8(  font-family: Arial, sans serife;)]TJ
+T*
+[(6:)-599.8(})]TJ
+T*
+[(7:)-599.8(h1 {)]TJ
+T*
+[(8:)-599.8(  color: #880000;)]TJ
+T*
+[(9:)-599.8(})]TJ
+-0.6 -1.1 TD
+[(10:)-599.7(h2 {)]TJ
+T*
+[(11:)-599.7(  color: #000088;)]TJ
+T*
+[(12:)-599.7(  font-size: 20px;)]TJ
+T*
+[(13:)-599.7(})]TJ
+T*
+[(14:)-599.7(a{)]TJ
+T*
+[(15:)-599.7(  text-decoration: none;)]TJ
+T*
+[(16:)-599.7(  color: #005500;)]TJ
+T*
+[(17:)-599.7(})]TJ
+T*
+[(18:)-599.7(a:hover{)]TJ
+T*
+[(19:)-599.7(  text-decoration: underline;)]TJ
+T*
+[(20:)-599.7(})]TJ
+T*
+[(21:)-599.7(nav{)]TJ
+T*
+[(22:)-599.7(  border-bottom: 1px solid #444;)]TJ
+T*
+[(23:)-599.7(})]TJ
+T*
+[(24:)-599.7(nav ul {)]TJ
+T*
+[(25:)-599.7(  padding:0;)]TJ
+T*
+[(26:)-599.7(})]TJ
+T*
+[(27:)-599.7(nav ul li{)]TJ
+T*
+[(28:)-599.7(  display: inline-block;)]TJ
+T*
+[(29:)-599.7(  margin: 0;)]TJ
+T*
+[(30:)-599.7(  padding-right: 15px)]TJ
+T*
+[(31:)-599.7(})]TJ
+T*
+[(32:)-599.7(nav ul li.active{)]TJ
+T*
+[(33:)-599.7(  font-weight: 700;)]TJ
+T*
+[(34:)-599.7(  font-style: italic;)]TJ
+T*
+[(35:)-599.7(})]TJ
+T*
+[(36:)-599.7(aside {)]TJ
+T*
+[(37:)-599.7(  text-align: center;)]TJ
+T*
+[(38:)-599.7(  border-top: 1px solid #444;)]TJ
+T*
+[(39:)-599.7(  border-bottom: 1px solid #444;)]TJ
+T*
+[(40:)-599.7(  height: 40px;)]TJ
+T*
+[(41:)-599.7(  line-height: 40px;)]TJ
+T*
+[(42:)-599.7(})]TJ
+T*
+[(43:)-599.7(footer {)]TJ
+T*
+[(44:)-599.7(  margin-top: 20px;)]TJ
+T*
+[(45:)-599.7(  background-color: #444;)]TJ
+T*
+[(46:)-599.7(  padding: 20px;)]TJ
+T*
+[(47:)-599.7(})]TJ
+T*
+[(48:)-599.7(footer .row {)]TJ
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+9 0 obj
+<<
+/Length 1183
+>>
+stream
+BT
+/TT2 1 Tf
+0 10 -10 0 35.6667 29 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+(STEP-1 appcamps.css                                   Appcamps: HTML-CSS-101)Tj
+/TT4 1 Tf
+1.9 -1.6333 TD
+[(49:)-599.7(  height: 30px;)]TJ
+0 -1.1 TD
+[(50:)-599.7(})]TJ
+T*
+[(51:)-599.7(footer input {)]TJ
+T*
+[(52:)-599.7(  width: 100px;)]TJ
+T*
+[(53:)-599.7(  padding: 3px;)]TJ
+T*
+[(54:)-599.7(  border: 2px solid #aa0000;)]TJ
+T*
+[(55:)-599.7(})]TJ
+T*
+[(56:)-599.7(footer input[type=submit] {)]TJ
+T*
+[(57:)-599.7(  width: 50px;)]TJ
+T*
+[(58:)-599.7(})]TJ
+T*
+[(59:)-599.7(footer .row label{)]TJ
+T*
+[(60:)-599.7(  display: inline-block;)]TJ
+T*
+[(61:)-599.7(  width: 100px;)]TJ
+T*
+[(62:)-599.7(})]TJ
+T*
+[(63:)-599.7(.content {)]TJ
+T*
+[(64:)-599.7(  margin: 20px 0;)]TJ
+T*
+[(65:)-599.7(  color: #333;)]TJ
+T*
+[(66:)-599.7(  background-color: #76daff;)]TJ
+T*
+[(67:)-599.7(  padding: 20px;)]TJ
+T*
+[(68:)-599.7(})]TJ
+T*
+[(69:)-599.7(.content p {)]TJ
+T*
+[(70:)-599.7(  font-style: italic;)]TJ
+T*
+[(71:)-599.7(  line-height: 24px;)]TJ
+T*
+[(72:)-599.7(  border: 1px;)]TJ
+T*
+[(73:)-599.7(})]TJ
+T*
+[(74:)-599.7(.message{)]TJ
+T*
+[(75:)-599.7(  color: #cc0000;)]TJ
+T*
+[(76:)-599.7(  font-weight: bold;)]TJ
+T*
+[(77:)-599.7(})]TJ
+T*
+(78:)Tj
+ET
+endstream
+endobj
+10 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+6 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/OP false
+/op false
+/OPM 1
+/BG2 /Default
+/UCR2 /Default
+/HT /Default
+/TR2 /Default
+>>
+endobj
+11 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 262179
+/FontBBox [-113 -250 749 801]
+/FontName /Courier-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 439
+/StemH 84
+>>
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 35
+/FontBBox [-28 -250 628 805]
+/FontName /Courier
+/ItalicAngle 0
+/StemV 51
+/XHeight 426
+/StemH 51
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 115
+/Widths [600 0 0 0 0 0 0 0 0 0 0 0 0 600 600 0 
+600 600 0 0 0 0 0 0 0 0 600 0 0 0 0 0 
+0 600 0 600 0 600 0 0 600 0 0 0 600 600 0 0 
+600 0 0 600 600 0 0 0 0 0 0 0 0 0 0 0 
+0 600 0 600 0 0 0 0 0 0 0 0 0 600 0 0 
+600 0 0 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier-Bold
+/FontDescriptor 11 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 125
+/Widths [600 0 0 600 0 0 0 0 0 0 0 0 600 600 600 0 
+600 600 600 600 600 600 600 600 600 600 600 600 0 600 0 0 
+0 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 600 0 600 0 0 
+0 600 600 600 600 600 600 600 600 600 0 600 600 600 600 600 
+600 0 600 600 600 600 600 600 600 600 600 600 0 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+/FontDescriptor 12 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 10 0 R
+/Contents 9 0 R
+>>
+endobj
+13 0 obj
+<<
+/S /D
+>>
+endobj
+14 0 obj
+<<
+/Nums [0 13 0 R ]
+>>
+endobj
+7 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R 8 0 R]
+/Count 2
+/Rotate 90
+/MediaBox [0 0 595 842]
+>>
+endobj
+15 0 obj
+<<
+/CreationDate (D:20140826224213+02'00')
+/ModDate (D:20140826224213+02'00')
+/Producer (Apple pstopdf)
+>>
+endobj
+16 0 obj
+<<
+/Type /Catalog
+/Pages 7 0 R
+/PageLabels 14 0 R
+>>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000004683 00000 n 
+0000000016 00000 n 
+0000001877 00000 n 
+0000003858 00000 n 
+0000004236 00000 n 
+0000003325 00000 n 
+0000004912 00000 n 
+0000004763 00000 n 
+0000001983 00000 n 
+0000003218 00000 n 
+0000003465 00000 n 
+0000003667 00000 n 
+0000004844 00000 n 
+0000004872 00000 n 
+0000005010 00000 n 
+0000005133 00000 n 
+trailer
+<<
+/Size 17
+/Root 16 0 R
+/Info 15 0 R
+/ID [<113ef4f3b9c7627aeda843f73a4229ff><113ef4f3b9c7627aeda843f73a4229ff>]
+>>
+startxref
+5202
+%%EOF

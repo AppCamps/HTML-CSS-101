@@ -1,0 +1,846 @@
+%PDF-1.3
+%‚„œ”
+2 0 obj
+<<
+/Length 8160
+>>
+stream
+BT
+/TT2 1 Tf
+0 10 -10 0 35.6667 29 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+(STEP-0 index.html                                   Appcamps: HTML-CSS-101)Tj
+/TT4 1 Tf
+2.5 -1.6333 TD
+(1:)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(<!doctype html>)Tj
+/TT4 1 Tf
+0 g
+-1.8 -1.1 TD
+(2:)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(<html>)Tj
+/TT4 1 Tf
+0 g
+-1.8 -1.1 TD
+[(3:)-599.8(  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3 0 TD
+(<head>)Tj
+/TT4 1 Tf
+0 g
+-3 -1.1 TD
+[(4:)-599.8(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(<title>)Tj
+/TT4 1 Tf
+0 g
+4.2 0 TD
+(Sweet dreams)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(</title>)Tj
+/TT4 1 Tf
+0 g
+-15.6 -1.1 TD
+[(5:)-599.8(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(<meta charset=)Tj
+0.737 0.561 0.561 rg
+8.4 0 TD
+("utf-8")Tj
+0.627 0.125 0.941 rg
+4.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-16.8 -1.1 TD
+[(6:)-599.8(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(<link href=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("assets/stylesheets/main.css")Tj
+0.627 0.125 0.941 rg
+17.4 0 TD
+( rel=)Tj
+0.737 0.561 0.561 rg
+3 0 TD
+("stylesheet")Tj
+0.627 0.125 0.941 rg
+7.2 0 TD
+( type=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("text/css")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-48 -1.1 TD
+[(7:)-599.8(  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3 0 TD
+(</head>)Tj
+/TT4 1 Tf
+0 g
+-3 -1.1 TD
+[(8:)-599.8(  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3 0 TD
+(<body>)Tj
+/TT4 1 Tf
+0 g
+-3 -1.1 TD
+[(9:)-599.8(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(<nav>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+[(10:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(<ul>)Tj
+/TT4 1 Tf
+0 g
+-6 -1.1 TD
+[(11:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<li class=)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("active")Tj
+0.627 0.125 0.941 rg
+4.8 0 TD
+(><a href=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("#songs")Tj
+0.627 0.125 0.941 rg
+4.8 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Songs)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3 0 TD
+(</a></li>)Tj
+/TT4 1 Tf
+0 g
+-31.8 -1.1 TD
+[(12:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<li><a href=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("#members")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Members)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(</a></li>)Tj
+/TT4 1 Tf
+0 g
+-25.2 -1.1 TD
+[(13:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<li><a href=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("#discography")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Discography)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6.6 0 TD
+(</a></li>)Tj
+/TT4 1 Tf
+0 g
+-30 -1.1 TD
+[(14:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(</ul>)Tj
+/TT4 1 Tf
+0 g
+-6 -1.1 TD
+[(15:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(</nav>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+[(16:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(<section class=)Tj
+0.737 0.561 0.561 rg
+9 0 TD
+("content")Tj
+0.627 0.125 0.941 rg
+5.4 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-19.2 -1.1 TD
+[(17:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(<h1>)Tj
+/TT4 1 Tf
+0 g
+2.4 0 TD
+(Guns íní Roses)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(</h1>)Tj
+/TT4 1 Tf
+0 g
+-16.8 -1.1 TD
+[(18:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(<h2>)Tj
+/TT4 1 Tf
+0 g
+2.4 0 TD
+(Welcome to the Jungle)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12.6 0 TD
+(</h2>)Tj
+/TT4 1 Tf
+0 g
+-21 -1.1 TD
+[(19:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(<p>)Tj
+/TT4 1 Tf
+0 g
+-6 -1.1 TD
+[(20:)-599.7(        Welcome to the jungle)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+19.8 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-19.8 -1.1 TD
+[(21:)-599.7(        Weíve got fun íní games)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+21 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-21 -1.1 TD
+[(22:)-599.7(        We got everything you want)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+22.8 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-22.8 -1.1 TD
+[(23:)-599.7(        Honey, we know the names)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+21.6 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-21.6 -1.1 TD
+[(24:)-599.7(        We are the people that can find)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+25.8 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-25.8 -1.1 TD
+[(25:)-599.7(        Whatever you may need)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+19.8 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-19.8 -1.1 TD
+[(26:)-599.7(        If you got the money, honey)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+23.4 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-23.4 -1.1 TD
+[(27:)-599.7(        We got your disease)]TJ
+T*
+[(28:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(</p>)Tj
+/TT4 1 Tf
+0 g
+-6 -1.1 TD
+[(29:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(</section>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+[(30:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(<aside>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+[(31:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(<strong>)Tj
+/TT4 1 Tf
+0 g
+4.8 0 TD
+(Slash is still the greates)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+15.6 0 TD
+(</strong>)Tj
+/TT4 1 Tf
+0 g
+-26.4 -1.1 TD
+[(32:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(</aside>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+[(33:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(<footer>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+[(34:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(<span class=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("message")Tj
+0.627 0.125 0.941 rg
+5.4 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Get in touch!)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.8 0 TD
+(</span>)Tj
+/TT4 1 Tf
+0 g
+-27 -1.1 TD
+[(35:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(<form action=)Tj
+0.737 0.561 0.561 rg
+7.8 0 TD
+("")Tj
+0.627 0.125 0.941 rg
+1.2 0 TD
+( method=)Tj
+0.737 0.561 0.561 rg
+4.8 0 TD
+("post")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-23.4 -1.1 TD
+[(36:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("row")Tj
+0.627 0.125 0.941 rg
+3 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-16.8 -1.1 TD
+[(37:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<label for)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("name")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Name: )Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3.6 0 TD
+(</label>)Tj
+/TT4 1 Tf
+0 g
+-22.2 -1.1 TD
+[(38:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<input type=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("text")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+( name=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("name")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+( />)Tj
+/TT4 1 Tf
+0 g
+-26.4 -1.1 TD
+[(39:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-7.2 -1.1 TD
+[(40:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("row")Tj
+0.627 0.125 0.941 rg
+3 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-16.8 -1.1 TD
+[(41:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<label for)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("email")Tj
+0.627 0.125 0.941 rg
+4.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Email: )Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(</label>)Tj
+/TT4 1 Tf
+0 g
+-23.4 -1.1 TD
+[(42:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<input type=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("text")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+( name=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("email")Tj
+0.627 0.125 0.941 rg
+4.2 0 TD
+( />)Tj
+/TT4 1 Tf
+0 g
+-27 -1.1 TD
+[(43:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-7.2 -1.1 TD
+[(44:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("row")Tj
+0.627 0.125 0.941 rg
+3 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-16.8 -1.1 TD
+[(45:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<label for)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("submit")Tj
+0.627 0.125 0.941 rg
+4.8 0 TD
+(></label>)Tj
+/TT4 1 Tf
+0 g
+-19.2 -1.1 TD
+[(46:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<input type=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("submit")Tj
+0.627 0.125 0.941 rg
+4.8 0 TD
+( name=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("submit")Tj
+0.627 0.125 0.941 rg
+4.8 0 TD
+( value=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("send")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+( />)Tj
+/TT4 1 Tf
+0 g
+-36.6 -1.1 TD
+[(47:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-7.2 -1.1 TD
+[(48:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(</form>)Tj
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+9 0 obj
+<<
+/Length 429
+>>
+stream
+BT
+/TT2 1 Tf
+0 10 -10 0 35.6667 29 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+(STEP-0 index.html                                   Appcamps: HTML-CSS-101)Tj
+/TT4 1 Tf
+1.9 -1.6333 TD
+[(49:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(</footer>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+[(50:)-599.7(  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3.6 0 TD
+(</body>)Tj
+/TT4 1 Tf
+0 g
+-3.6 -1.1 TD
+(51:)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(</html>)Tj
+ET
+endstream
+endobj
+10 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+6 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/OP false
+/op false
+/OPM 1
+/BG2 /Default
+/UCR2 /Default
+/HT /Default
+/TR2 /Default
+>>
+endobj
+11 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 262179
+/FontBBox [-113 -250 749 801]
+/FontName /Courier-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 439
+/StemH 84
+>>
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 35
+/FontBBox [-28 -250 628 805]
+/FontName /Courier
+/ItalicAngle 0
+/StemV 51
+/XHeight 426
+/StemH 51
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 121
+/Widths [600 600 600 600 0 0 0 0 0 0 0 0 0 600 600 600 
+600 600 600 0 0 0 0 0 600 0 600 0 600 600 600 0 
+0 600 0 600 0 600 0 0 600 0 0 0 600 600 0 0 
+600 0 0 600 600 0 0 0 0 0 0 0 0 0 0 0 
+0 600 600 600 600 600 600 600 600 600 0 600 600 600 600 600 
+600 0 600 600 600 600 600 600 600 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier-Bold
+/FontDescriptor 11 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 146
+/Widths [600 600 0 0 0 0 0 0 0 0 0 0 600 0 0 0 
+600 600 600 600 600 600 600 600 600 600 600 0 0 0 0 0 
+0 0 0 0 600 600 0 600 600 600 600 0 0 600 600 0 
+0 0 600 600 0 0 0 600 0 0 0 0 0 0 0 0 
+0 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
+600 0 600 600 600 600 600 600 0 600 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+/FontDescriptor 12 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 10 0 R
+/Contents 9 0 R
+>>
+endobj
+13 0 obj
+<<
+/S /D
+>>
+endobj
+14 0 obj
+<<
+/Nums [0 13 0 R ]
+>>
+endobj
+7 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R 8 0 R]
+/Count 2
+/Rotate 90
+/MediaBox [0 0 595 842]
+>>
+endobj
+15 0 obj
+<<
+/CreationDate (D:20140826224335+02'00')
+/ModDate (D:20140826224335+02'00')
+/Producer (Apple pstopdf)
+>>
+endobj
+16 0 obj
+<<
+/Type /Catalog
+/Pages 7 0 R
+/PageLabels 14 0 R
+>>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000010393 00000 n 
+0000000016 00000 n 
+0000008228 00000 n 
+0000009454 00000 n 
+0000009898 00000 n 
+0000008921 00000 n 
+0000010622 00000 n 
+0000010473 00000 n 
+0000008334 00000 n 
+0000008814 00000 n 
+0000009061 00000 n 
+0000009263 00000 n 
+0000010554 00000 n 
+0000010582 00000 n 
+0000010720 00000 n 
+0000010843 00000 n 
+trailer
+<<
+/Size 17
+/Root 16 0 R
+/Info 15 0 R
+/ID [<5be9106fa81f43f64c636cc457e8be2d><5be9106fa81f43f64c636cc457e8be2d>]
+>>
+startxref
+10912
+%%EOF

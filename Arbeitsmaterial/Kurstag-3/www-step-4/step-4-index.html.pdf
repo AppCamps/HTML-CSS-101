@@ -1,0 +1,1616 @@
+%PDF-1.3
+%‚„œ”
+2 0 obj
+<<
+/Length 7897
+>>
+stream
+BT
+/TT2 1 Tf
+0 10 -10 0 35.6667 29 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+(STEP-4 index.html                                   Appcamps: HTML-CSS-101)Tj
+/TT4 1 Tf
+2.5 -1.6333 TD
+(1:)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(<!doctype html>)Tj
+/TT4 1 Tf
+0 g
+-1.8 -1.1 TD
+(2:)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(<html>)Tj
+/TT4 1 Tf
+0 g
+-1.8 -1.1 TD
+[(3:)-599.8(  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3 0 TD
+(<head>)Tj
+/TT4 1 Tf
+0 g
+-3 -1.1 TD
+[(4:)-599.8(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(<title>)Tj
+/TT4 1 Tf
+0 g
+4.2 0 TD
+(Sweet dreams)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(</title>)Tj
+/TT4 1 Tf
+0 g
+-15.6 -1.1 TD
+[(5:)-599.8(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(<meta charset=)Tj
+0.737 0.561 0.561 rg
+8.4 0 TD
+("utf-8")Tj
+0.627 0.125 0.941 rg
+4.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-16.8 -1.1 TD
+[(6:)-599.8(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(<meta name=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("viewport")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+( content=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("width=device-width, initial-scale=1")Tj
+0.627 0.125 0.941 rg
+22.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-44.4 -1.1 TD
+[(7:)-599.8(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(<link href=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("assets/stylesheets/bootstrap.min.css")Tj
+0.627 0.125 0.941 rg
+22.8 0 TD
+( rel=)Tj
+0.737 0.561 0.561 rg
+3 0 TD
+("stylesheet")Tj
+0.627 0.125 0.941 rg
+7.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-43.8 -1.1 TD
+[(8:)-599.8(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(<link href=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("assets/stylesheets/appcamps.css")Tj
+0.627 0.125 0.941 rg
+19.8 0 TD
+( rel=)Tj
+0.737 0.561 0.561 rg
+3 0 TD
+("stylesheet")Tj
+0.627 0.125 0.941 rg
+7.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-40.8 -1.1 TD
+[(9:)-599.8(  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3 0 TD
+(</head>)Tj
+/TT4 1 Tf
+0 g
+-3.6 -1.1 TD
+[(10:)-599.7(  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3.6 0 TD
+(<body class=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("appcamps")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-16.8 -1.1 TD
+[(11:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(<nav class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("navbar navbar-inverse navbar-fixed-top")Tj
+0.627 0.125 0.941 rg
+24 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-35.4 -1.1 TD
+[(12:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("container")Tj
+0.627 0.125 0.941 rg
+6.6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-19.2 -1.1 TD
+[(13:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("navbar-header")Tj
+0.627 0.125 0.941 rg
+9 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-22.8 -1.1 TD
+[(14:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<a href=)Tj
+0.737 0.561 0.561 rg
+4.8 0 TD
+("#")Tj
+0.627 0.125 0.941 rg
+1.8 0 TD
+( class=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("navbar-brand")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(GíníR)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3 0 TD
+(</a>)Tj
+/TT4 1 Tf
+0 g
+-31.2 -1.1 TD
+[(15:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-7.2 -1.1 TD
+[(16:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<ul class=)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("nav navbar-nav")Tj
+0.627 0.125 0.941 rg
+9.6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-22.8 -1.1 TD
+[(17:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<li class=)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("active")Tj
+0.627 0.125 0.941 rg
+4.8 0 TD
+(><a href=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("#songs")Tj
+0.627 0.125 0.941 rg
+4.8 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Songs)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3 0 TD
+(</a></li>)Tj
+/TT4 1 Tf
+0 g
+-33 -1.1 TD
+[(18:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<li><a href=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("#members")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Members)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(</a></li>)Tj
+/TT4 1 Tf
+0 g
+-26.4 -1.1 TD
+[(19:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<li><a href=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("#discography")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Discography)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6.6 0 TD
+(</a></li>)Tj
+/TT4 1 Tf
+0 g
+-31.2 -1.1 TD
+[(20:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(</ul>)Tj
+/TT4 1 Tf
+0 g
+-7.2 -1.1 TD
+[(21:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-6 -1.1 TD
+[(22:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(</nav>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+(23:)Tj
+T*
+[(24:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(<section>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+[(25:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(<aside class=)Tj
+0.737 0.561 0.561 rg
+7.8 0 TD
+("container")Tj
+0.627 0.125 0.941 rg
+6.6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-20.4 -1.1 TD
+[(26:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<h1>)Tj
+/TT4 1 Tf
+0 g
+2.4 0 TD
+(Guns íní Roses)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(</h1>)Tj
+/TT4 1 Tf
+0 g
+-18 -1.1 TD
+[(27:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<h2>)Tj
+/TT4 1 Tf
+0 g
+2.4 0 TD
+(Welcome to the Jungle)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12.6 0 TD
+(</h2>)Tj
+/TT4 1 Tf
+0 g
+-22.2 -1.1 TD
+[(28:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<p class=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("text-primary")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-21 -1.1 TD
+[(29:)-599.7(          Welcome to the jungle)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+21 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-21 -1.1 TD
+[(30:)-599.7(          Weíve got fun íní games)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+22.2 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-22.2 -1.1 TD
+[(31:)-599.7(          We got everything you want)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+24 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-24 -1.1 TD
+[(32:)-599.7(          Honey, we know the names)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+22.8 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-22.8 -1.1 TD
+[(33:)-599.7(          We are the people that can find)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+27 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-27 -1.1 TD
+[(34:)-599.7(          Whatever you may need)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+21 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-21 -1.1 TD
+[(35:)-599.7(          If you got the money, honey)]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+24.6 0 TD
+(<br>)Tj
+/TT4 1 Tf
+0 g
+-24.6 -1.1 TD
+[(36:)-599.7(          We got your disease)]TJ
+T*
+[(37:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(</p>)Tj
+/TT4 1 Tf
+0 g
+-7.2 -1.1 TD
+[(38:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<aside>)Tj
+/TT4 1 Tf
+0 g
+-7.2 -1.1 TD
+[(39:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<strong>)Tj
+/TT4 1 Tf
+0 g
+4.8 0 TD
+(Slash is still the greates)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+15.6 0 TD
+(</strong>)Tj
+/TT4 1 Tf
+0 g
+-28.8 -1.1 TD
+[(40:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(</aside>)Tj
+/TT4 1 Tf
+0 g
+-7.2 -1.1 TD
+[(41:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(</aside>)Tj
+/TT4 1 Tf
+0 g
+-6 -1.1 TD
+[(42:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(</section>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+(43:)Tj
+T*
+[(44:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(<footer>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+[(45:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(<aside class=)Tj
+0.737 0.561 0.561 rg
+7.8 0 TD
+("container")Tj
+0.627 0.125 0.941 rg
+6.6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-20.4 -1.1 TD
+[(46:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(<aside class=)Tj
+0.737 0.561 0.561 rg
+7.8 0 TD
+("row")Tj
+0.627 0.125 0.941 rg
+3 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-18 -1.1 TD
+[(47:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("col-md-4")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-21 -1.1 TD
+[(48:)-599.7(            )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+9.6 0 TD
+(<h3>)Tj
+/TT4 1 Tf
+0 g
+2.4 0 TD
+(Get in touch!)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.8 0 TD
+(</h3>)Tj
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+9 0 obj
+<<
+/Length 10997
+>>
+stream
+BT
+/TT2 1 Tf
+0 10 -10 0 35.6667 29 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+(STEP-4 index.html                                   Appcamps: HTML-CSS-101)Tj
+/TT4 1 Tf
+1.9 -1.6333 TD
+[(49:)-599.7(            )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+9.6 0 TD
+(<form action=)Tj
+0.737 0.561 0.561 rg
+7.8 0 TD
+("")Tj
+0.627 0.125 0.941 rg
+1.2 0 TD
+( method=)Tj
+0.737 0.561 0.561 rg
+4.8 0 TD
+("post")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+( class=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("form-horizontal")Tj
+0.627 0.125 0.941 rg
+10.2 0 TD
+( role=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("form")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-48.6 -1.1 TD
+[(50:)-599.7(              )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+10.8 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("form-group")Tj
+0.627 0.125 0.941 rg
+7.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-24.6 -1.1 TD
+[(51:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<label for)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("name")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+( class=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("col-sm-2 control-label")Tj
+0.627 0.125 0.941 rg
+14.4 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Name: )Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3.6 0 TD
+(</label>)Tj
+/TT4 1 Tf
+0 g
+-44.4 -1.1 TD
+[(52:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("col-sm-8")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-24.6 -1.1 TD
+[(53:)-599.7(                  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+13.2 0 TD
+(<input type=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("text")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+( name=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("name")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+( class=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("form-control")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-43.8 -1.1 TD
+[(54:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-12 -1.1 TD
+[(55:)-599.7(              )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+10.8 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-10.8 -1.1 TD
+[(56:)-599.7(              )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+10.8 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("form-group")Tj
+0.627 0.125 0.941 rg
+7.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-24.6 -1.1 TD
+[(57:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<label for)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("email")Tj
+0.627 0.125 0.941 rg
+4.2 0 TD
+( class=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("col-sm-2 control-label")Tj
+0.627 0.125 0.941 rg
+14.4 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Email: )Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(</label>)Tj
+/TT4 1 Tf
+0 g
+-45.6 -1.1 TD
+[(58:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("col-sm-8")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-24.6 -1.1 TD
+[(59:)-599.7(                  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+13.2 0 TD
+(<input type=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("text")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+( name=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("email")Tj
+0.627 0.125 0.941 rg
+4.2 0 TD
+( class=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("form-control")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-44.4 -1.1 TD
+[(60:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-12 -1.1 TD
+[(61:)-599.7(              )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+10.8 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-10.8 -1.1 TD
+[(62:)-599.7(              )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+10.8 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("form-group")Tj
+0.627 0.125 0.941 rg
+7.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-24.6 -1.1 TD
+[(63:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("col-sm-offset-2 col-sm-10")Tj
+0.627 0.125 0.941 rg
+16.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-34.8 -1.1 TD
+[(64:)-599.7(                  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+13.2 0 TD
+(<button type=)Tj
+0.737 0.561 0.561 rg
+7.8 0 TD
+("submit")Tj
+0.627 0.125 0.941 rg
+4.8 0 TD
+( name=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("submit")Tj
+0.627 0.125 0.941 rg
+4.8 0 TD
+( class=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("btn btn-primary")Tj
+0.627 0.125 0.941 rg
+10.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Send)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(</button>)Tj
+/TT4 1 Tf
+0 g
+-51.6 -1.1 TD
+[(65:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-12 -1.1 TD
+[(66:)-599.7(              )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+10.8 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-10.8 -1.1 TD
+[(67:)-599.7(            )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+9.6 0 TD
+(</form>)Tj
+/TT4 1 Tf
+0 g
+-9.6 -1.1 TD
+[(68:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-8.4 -1.1 TD
+(69:)Tj
+T*
+[(70:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("col-md-4")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-21 -1.1 TD
+[(71:)-599.7(            )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+9.6 0 TD
+(<h3>)Tj
+/TT4 1 Tf
+0 g
+2.4 0 TD
+(Imprint)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(</h3>)Tj
+/TT4 1 Tf
+0 g
+-16.2 -1.1 TD
+[(72:)-599.7(            )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+9.6 0 TD
+(<img src=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("assets/images/guns.jpg")Tj
+0.627 0.125 0.941 rg
+14.4 0 TD
+( width=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("180")Tj
+0.627 0.125 0.941 rg
+3 0 TD
+( class=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("img-circle")Tj
+0.627 0.125 0.941 rg
+7.2 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-48 -1.1 TD
+[(73:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-8.4 -1.1 TD
+(74:)Tj
+T*
+[(75:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("col-md-4")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-21 -1.1 TD
+[(76:)-599.7(            )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+9.6 0 TD
+(<h3>)Tj
+/TT4 1 Tf
+0 g
+2.4 0 TD
+(Shop)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(</h3>)Tj
+/TT4 1 Tf
+0 g
+-14.4 -1.1 TD
+[(77:)-599.7(            )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+9.6 0 TD
+(<div class=)Tj
+0.737 0.561 0.561 rg
+6.6 0 TD
+("dropdown")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-22.2 -1.1 TD
+[(78:)-599.7(              )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+10.8 0 TD
+(<button class=)Tj
+0.737 0.561 0.561 rg
+8.4 0 TD
+("btn btn-default dropdown-toggle")Tj
+0.627 0.125 0.941 rg
+19.8 0 TD
+( type=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("button")Tj
+0.627 0.125 0.941 rg
+4.8 0 TD
+( id=)Tj
+0.737 0.561 0.561 rg
+2.4 0 TD
+("dropdownMenu1")Tj
+0.627 0.125 0.941 rg
+9 0 TD
+( data-toggle=)Tj
+0.737 0.561 0.561 rg
+7.8 0 TD
+("dropdown")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-72.6 -1.1 TD
+[(79:)-599.7(                Please Choose ...)]TJ
+T*
+[(80:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<span class=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("caret")Tj
+0.627 0.125 0.941 rg
+4.2 0 TD
+(></span>)Tj
+/TT4 1 Tf
+0 g
+-23.4 -1.1 TD
+[(81:)-599.7(              )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+10.8 0 TD
+(</button>)Tj
+/TT4 1 Tf
+0 g
+-10.8 -1.1 TD
+[(82:)-599.7(              )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+10.8 0 TD
+(<ul class=)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("dropdown-menu")Tj
+0.627 0.125 0.941 rg
+9 0 TD
+( role=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("menu")Tj
+0.627 0.125 0.941 rg
+3.6 0 TD
+( aria-labelledby=)Tj
+0.737 0.561 0.561 rg
+10.2 0 TD
+("dropdownMenu1")Tj
+0.627 0.125 0.941 rg
+9 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+-52.2 -1.1 TD
+[(83:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<li role=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("presentation")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+(><a role=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("menuitem")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+( tabindex=)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("-1")Tj
+0.627 0.125 0.941 rg
+2.4 0 TD
+( href=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("#")Tj
+0.627 0.125 0.941 rg
+1.8 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(CDís)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(</a></li>)Tj
+/TT4 1 Tf
+0 g
+-54 -1.1 TD
+[(84:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<li role=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("presentation")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+(><a role=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("menuitem")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+( tabindex=)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("-1")Tj
+0.627 0.125 0.941 rg
+2.4 0 TD
+( href=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("#")Tj
+0.627 0.125 0.941 rg
+1.8 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(T-Shirts)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(</a></li>)Tj
+/TT4 1 Tf
+0 g
+-56.4 -1.1 TD
+[(85:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<li role=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("presentation")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+(><a role=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("menuitem")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+( tabindex=)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("-1")Tj
+0.627 0.125 0.941 rg
+2.4 0 TD
+( href=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("#")Tj
+0.627 0.125 0.941 rg
+1.8 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Posters)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.2 0 TD
+(</a></li>)Tj
+/TT4 1 Tf
+0 g
+-55.8 -1.1 TD
+[(86:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<li role=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("presentation")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+( class=)Tj
+0.737 0.561 0.561 rg
+4.2 0 TD
+("divider")Tj
+0.627 0.125 0.941 rg
+5.4 0 TD
+(></li>)Tj
+/TT4 1 Tf
+0 g
+-35.4 -1.1 TD
+[(87:)-599.7(                )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+12 0 TD
+(<li role=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("presentation")Tj
+0.627 0.125 0.941 rg
+8.4 0 TD
+(><a role=)Tj
+0.737 0.561 0.561 rg
+5.4 0 TD
+("menuitem")Tj
+0.627 0.125 0.941 rg
+6 0 TD
+( tabindex=)Tj
+0.737 0.561 0.561 rg
+6 0 TD
+("-1")Tj
+0.627 0.125 0.941 rg
+2.4 0 TD
+( href=)Tj
+0.737 0.561 0.561 rg
+3.6 0 TD
+("#")Tj
+0.627 0.125 0.941 rg
+1.8 0 TD
+(>)Tj
+/TT4 1 Tf
+0 g
+0.6 0 TD
+(Specials)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(</a></li>)Tj
+/TT4 1 Tf
+0 g
+-56.4 -1.1 TD
+[(88:)-599.7(              )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+10.8 0 TD
+(</ul>)Tj
+/TT4 1 Tf
+0 g
+-10.8 -1.1 TD
+[(89:)-599.7(            )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+9.6 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-9.6 -1.1 TD
+[(90:)-599.7(          )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(</div>)Tj
+/TT4 1 Tf
+0 g
+-8.4 -1.1 TD
+[(91:)-599.7(        )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(</aside>)Tj
+/TT4 1 Tf
+0 g
+-7.2 -1.1 TD
+[(92:)-599.7(      )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+6 0 TD
+(</aside>)Tj
+/TT4 1 Tf
+0 g
+-6 -1.1 TD
+[(93:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(</footer>)Tj
+/TT4 1 Tf
+0 g
+-4.8 -1.1 TD
+[(94:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(<script src=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js")Tj
+0.627 0.125 0.941 rg
+40.2 0 TD
+(></script>)Tj
+/TT4 1 Tf
+0 g
+-52.2 -1.1 TD
+[(95:)-599.7(    )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(<script src=)Tj
+0.737 0.561 0.561 rg
+7.2 0 TD
+("assets/javascripts/bootstrap.min.js")Tj
+0.627 0.125 0.941 rg
+22.2 0 TD
+(></script>)Tj
+/TT4 1 Tf
+0 g
+-34.2 -1.1 TD
+[(96:)-599.7(  )]TJ
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+3.6 0 TD
+(</body>)Tj
+ET
+endstream
+endobj
+10 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+12 0 obj
+<<
+/Length 227
+>>
+stream
+BT
+/TT2 1 Tf
+0 10 -10 0 35.6667 29 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+(STEP-4 index.html                                   Appcamps: HTML-CSS-101)Tj
+/TT4 1 Tf
+1.9 -1.6333 TD
+(97:)Tj
+/TT2 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(</html>)Tj
+ET
+endstream
+endobj
+13 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+6 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/OP false
+/op false
+/OPM 1
+/BG2 /Default
+/UCR2 /Default
+/HT /Default
+/TR2 /Default
+>>
+endobj
+14 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 262179
+/FontBBox [-113 -250 749 801]
+/FontName /Courier-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 439
+/StemH 84
+>>
+endobj
+15 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 35
+/FontBBox [-28 -250 628 805]
+/FontName /Courier
+/ItalicAngle 0
+/StemV 51
+/XHeight 426
+/StemH 51
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 122
+/Widths [600 600 600 600 0 0 0 0 0 0 0 0 600 600 600 600 
+600 600 600 600 600 0 0 0 600 0 600 0 600 600 600 0 
+0 600 0 600 0 600 0 0 600 0 0 0 600 600 0 0 
+600 0 0 600 600 0 0 0 0 0 0 0 0 0 0 0 
+0 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
+600 600 600 600 600 600 600 600 600 600 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier-Bold
+/FontDescriptor 14 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 146
+/Widths [600 600 0 0 0 0 0 0 0 0 0 0 600 600 600 0 
+600 600 600 600 600 600 600 600 600 600 600 0 0 0 0 0 
+0 0 0 600 600 600 0 600 600 600 600 0 0 600 600 0 
+600 0 600 600 600 0 0 600 0 0 0 0 0 0 0 0 
+0 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
+600 0 600 600 600 600 600 600 0 600 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+/FontDescriptor 15 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 10 0 R
+/Contents 9 0 R
+>>
+endobj
+11 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 13 0 R
+/Contents 12 0 R
+>>
+endobj
+16 0 obj
+<<
+/S /D
+>>
+endobj
+17 0 obj
+<<
+/Nums [0 16 0 R ]
+>>
+endobj
+7 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R 8 0 R 11 0 R]
+/Count 3
+/Rotate 90
+/MediaBox [0 0 595 842]
+>>
+endobj
+18 0 obj
+<<
+/CreationDate (D:20140826223235+02'00')
+/ModDate (D:20140826223235+02'00')
+/Producer (Apple pstopdf)
+>>
+endobj
+19 0 obj
+<<
+/Type /Catalog
+/Pages 7 0 R
+/PageLabels 17 0 R
+>>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000021110 00000 n 
+0000000016 00000 n 
+0000007965 00000 n 
+0000020147 00000 n 
+0000020605 00000 n 
+0000019614 00000 n 
+0000021422 00000 n 
+0000021190 00000 n 
+0000008071 00000 n 
+0000019121 00000 n 
+0000021271 00000 n 
+0000019228 00000 n 
+0000019507 00000 n 
+0000019754 00000 n 
+0000019956 00000 n 
+0000021354 00000 n 
+0000021382 00000 n 
+0000021527 00000 n 
+0000021650 00000 n 
+trailer
+<<
+/Size 20
+/Root 19 0 R
+/Info 18 0 R
+/ID [<64ea4f603886958234788dd396779b05><64ea4f603886958234788dd396779b05>]
+>>
+startxref
+21719
+%%EOF
